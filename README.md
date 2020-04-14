@@ -12,5 +12,5 @@ Abra o arquivo <code>AnimaWebAPI.sln</code> e rode.
 # VSCode
 Abra a pasta src e pressione F5
 
-# Acessa o Swagger
+# Acesso ao Swagger
 http://localhost:5000/swagger
